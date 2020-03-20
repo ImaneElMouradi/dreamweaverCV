@@ -1,0 +1,25 @@
+/* CSS Document */
+
+body {
+	box-sizing: border-box;
+	background-color: #EFF8FF;
+}
+
+body > .container {
+	background-color: white;
+	border-color: #3490DC ;
+	border-style: solid;
+	border-width: 2px;
+}
+
+h2, h5, h6 {
+	color: #2779BD;
+}
+
+.divers > li {
+	list-style-type: none;
+}
+
+.divers > li > img {
+	border-radius: 8px;
+}
